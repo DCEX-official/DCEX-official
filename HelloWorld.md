@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DCEX-official, the official account for DCEX project.
+- 💡 DCEX, short for Distributed Computing Protocol Exchange, is a filecoin based project.
 - 💻 Open source code and project info will be upload to Github.
 - 🗞 More project progress and updates will be available soon! 
 - 🤟 Plz follow us to receive the newest info!
